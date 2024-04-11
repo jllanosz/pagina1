@@ -1,0 +1,42 @@
+#titulo{
+    color:rgb(3, 75, 84);
+    background:rgb(226, 134, 122);
+    width: 100%;
+    position:fixed;
+    padding: 20px auto 20px auto;
+    right: 0;
+    left: 0;
+    top:0;
+}
+img.imagen1{
+    margin-top:20px;
+}
+.grupo1{
+    border: 3px solid;
+}
+p#parrafo1{
+    font-size: 100%;
+    width: 50%;
+    color:rgb(23, 125, 198);
+    background-color:aqua;
+    border: 2px solid;
+    margin: 15px;
+    padding:5px 30px 5px 30px;
+    text-align: justify;
+    float:right;
+}
+p#parrafo2{
+    color:rgb(161, 52, 229);
+}
+h2{
+    width: 20%;
+    border: 2px solid;
+    margin: 15px;
+    padding:5px 30px 5px 30px;
+    color:rgb(85, 14, 206);
+    background-color:rgb(190, 74, 228);
+    float:left;
+}
+body{
+    border-spacing: 1px 1px;
+}
